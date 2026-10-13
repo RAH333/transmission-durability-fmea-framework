@@ -1,3 +1,5 @@
+![Automated Transmission Durability & Failure Analysis Framework](assets/tdfmeafw.jpg)
+
 # transmission-durability-fmea-framework
 Project Concept: Automated Transmission Gearbox Durability &amp; Failure Analysis Framework
 
@@ -17,6 +19,11 @@ This repository provides an automated suite to model transmission system gear st
 
 ## Execution Guide
 
+### Repo clone and go to repo main directory 
+```
+git clone 
+cd 
+```
 ### Prerequisite Environment
 ```bash
 pip install -r requirements.txt
