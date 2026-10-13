@@ -21,8 +21,8 @@ This repository provides an automated suite to model transmission system gear st
 
 ### Repo clone and go to repo main directory 
 ```
-git clone 
-cd 
+git clone https://github.com/RAH333/transmission-durability-fmea-framework.git
+cd transmission-durability-fmea-framework
 ```
 ### Prerequisite Environment
 ```bash
